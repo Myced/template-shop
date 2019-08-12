@@ -1,0 +1,347 @@
+.header--market-place-2 .menu > li > a {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 15px 16px; }
+.header--market-place-2 .menu > li > a:hover {
+    color: #ffffff; }
+
+.header--market-place-2 .navigation {
+    border-bottom: 1px solid #e1e1e1;
+    background-color: #fcb800; }
+.header--market-place-2 .navigation > .container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap; }
+.header--market-place-2 .navigation > .container > * {
+    width: 100%; }
+
+.header--market-place-2 .header__extra span i {
+    color: #000;
+    font-weight: 700; }
+
+.header--market-place-2 .header__extra:hover > i {
+    color: #fcb800; }
+
+.header--market-place-2 .header__extra:hover span {
+    color: #fcb800; }
+
+.header--market-place-2 .header__content {
+    padding-bottom: 10px; }
+.header--market-place-2 .header__content .container {
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start; }
+.header--market-place-2 .header__content .menu--product-categories .menu__toggle span {
+    display: none; }
+.header--market-place-2 .header__content .menu--product-categories .menu__content {
+    left: auto;
+    right: -10px;
+    padding-top: 0; }
+.header--market-place-2 .header__content .menu--product-categories .menu__content:before {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    top: -7px;
+    right: 30px;
+    width: 16px;
+    height: 16px;
+    border-left: 1px solid #e1e1e1;
+    border-top: 1px solid #e1e1e1;
+    background-color: #ffffff;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+    -webkit-transform-origin: 50% 50%;
+    -moz-transform-origin: 50% 50%;
+    -ms-transform-origin: 50% 50%;
+    -o-transform-origin: 50% 50%;
+    transform-origin: 50% 50%; }
+.header--market-place-2 .header__content .menu--product-categories .menu--dropdown > li:hover {
+    background-color: #fff; }
+.header--market-place-2 .header__content .menu--product-categories .menu--dropdown > li:hover a {
+    color: #fcb800; }
+.header--market-place-2 .header__content .menu--product-categories:hover .menu__content {
+    -webkit-transform: translateY(25px);
+    -moz-transform: translateY(25px);
+    -ms-transform: translateY(25px);
+    -o-transform: translateY(25px);
+    transform: translateY(25px); }
+
+.header--market-place-2 .header__center-left {
+    padding-top: 10px; }
+
+.header--market-place-2 .header__content-center .ps-form--quick-search {
+    margin-bottom: 10px; }
+
+.header--market-place-2 .header__content-center p {
+    margin-bottom: 0; }
+.header--market-place-2 .header__content-center p a {
+    display: inline-block;
+    margin-right: 10px; }
+
+.header--market-place-2 .header__top {
+    background-color: #eff1f2; }
+
+.header--market-place-2.header--sticky .header__content .container {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center; }
+
+.header--market-place-2.header--sticky .header__content .menu--product-categories span {
+    display: block; }
+
+.header--market-place-2.header--sticky .header__content .menu--product-categories .menu__content:before {
+    right: auto;
+    left: 55px; }
+
+.header--market-place-2.header--sticky .header__content .menu--product-categories:hover .menu__content {
+    -webkit-transform: translateY(20px);
+    -moz-transform: translateY(20px);
+    -ms-transform: translateY(20px);
+    -o-transform: translateY(20px);
+    transform: translateY(20px); }
+
+.header--market-place-2.header--sticky .header__content-center p {
+    display: none; }
+
+.ps-banner--market-1 {
+    position: relative; }
+.ps-banner--market-1 h5 {
+    color: red;
+    font-weight: 400; }
+.ps-banner--market-1 h3 {
+    font-size: 36px;
+    line-height: 1.2em;
+    font-weight: 400; }
+.ps-banner--market-1 p {
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #999999;
+    line-height: 1.8em; }
+.ps-banner--market-1 p strong {
+    display: block;
+    font-size: 24px;
+    font-weight: 500;
+    color: #669900; }
+.ps-banner--market-1 .ps-btn {
+    margin-top: 20px;
+    padding: 12px 24px; }
+.ps-banner--market-1 .ps-banner__content {
+    max-width: 1200px;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    padding-left: 220px;
+    padding-right: 50px; }
+@media (max-width: 1680px) {
+    .ps-banner--market-1 h4 {
+        margin-bottom: 10px; }
+    .ps-banner--market-1 h3 {
+        font-size: 40px;
+        line-height: 1.2em; } }
+@media (max-width: 1366px) {
+    .ps-banner--market-1 h4 {
+        margin-bottom: 10px;
+        font-size: 16px; }
+    .ps-banner--market-1 h3 {
+        font-size: 40px; }
+    .ps-banner--market-1 h3 br {
+        display: none; } }
+@media (max-width: 1199px) {
+    .ps-banner--market-1 {
+        min-height: 400px; }
+    .ps-banner--market-1 img {
+        display: none;
+        visibility: hidden;
+        opacity: 0; }
+    .ps-banner--market-1 .ps-banner__content {
+        padding: 0 30px; } }
+@media (max-width: 479px) {
+    .ps-banner--market-1 h3 {
+        font-size: 24px; }
+    .ps-banner--market-1 p {
+        font-size: 12px; } }
+
+
+/* market-place-3 */
+#homepage-4 {
+    padding-bottom: 30px;
+    background-color: #eeeeee;
+}
+
+#homepage-4 .ps-deal-of-day {
+    margin-bottom: 30px; }
+#homepage-4 .ps-deal-of-day .ps-product .ps-product__price {
+    color: #690;
+    font-size: 18px; }
+#homepage-4 .ps-deal-of-day .ps-product .ps-product__price del {
+    margin-left: 10px;
+    font-size: 14px; }
+#homepage-4 .ps-deal-of-day .ps-product .ps-product__price small {
+    margin-left: 10px;
+    color: red; }
+#homepage-4 .ps-deal-of-day .ps-section__header, #homepage-4 .ps-deal-of-day .ps-section__content {
+    background-color: #fff; }
+#homepage-4 .ps-deal-of-day .ps-section__header {
+    margin-bottom: 0;
+    padding: 20px 20px 10px; }
+#homepage-4 .ps-deal-of-day .ps-section__content {
+    padding: 60px 30px 30px; }
+
+#homepage-4 .ps-home-promotions {
+    margin: 0 0 30px; }
+
+#homepage-4 .ps-block--product-box {
+    margin-bottom: 30px; }
+
+.ps-search-trending{
+    padding: 0 0 30px 0;
+}
+
+
+/*# Surcharges */
+.ps-block--user-header .ps-block__right a{
+    line-height: 25px;
+}
+
+.header--standard .ps-form--quick-search{
+    width: 660px;
+}
+
+.header--standard .header__content-left{
+    max-width: 210px;
+}
+
+.ps-footer__content{
+    padding-top: 20px;
+}
+
+.widget_footer .widget-title{
+    margin-bottom: 10px;
+}
+
+.form-group--nest{
+    margin-bottom: 10px;
+}
+
+@media (max-width: 960px){
+    .ps-block--product-box .ps-block__content .ps-block__right{
+        display: none;
+    }
+
+    .ps-download-app{
+        display: none;
+    }
+
+    .ps-footer--3 .ps-block--site-features{
+        display: none;
+    }
+
+    .ps-footer__widgets{
+        display: none;
+    }
+
+    #homepage-4 .container{
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .ps-search-trending{
+        padding: 0;
+    }
+
+    .ps-block--categories-tabs .ps-tab{
+        padding: 0;
+    }
+
+    .ps-block--categories-tabs .ps-block__item{
+        padding: 0;
+    }
+
+    .ps-block--categories-tabs .ps-block__item a{
+        max-width: 25%;
+    }
+
+    .ps-block--categories-tabs .ps-block__item a img{
+        max-height: 80px;
+    }
+    .ps-block--categories-tabs .ps-block__item a{
+        margin-bottom: 0;
+        border: 1px solid #efefef;
+    }
+
+    .ps-deal-of-day .ps-section__header>a{
+        display: none;
+    }
+
+    #homepage-4 .ps-deal-of-day .ps-section__header{
+        padding: 10px 10px 5px 10px;
+    }
+
+    .ps-block--countdown-deal .ps-block__left{
+        max-width: 40%;
+        margin-right: 2%;
+    }
+
+    .ps-block--countdown-deal .ps-block__right{
+        max-width: 58%;
+    }
+
+    .ps-block--countdown-deal .ps-block__left h3{
+        font-size: 20px;
+    }
+
+    .ps-block--countdown-deal{
+        width: 100%;
+    }
+
+    #homepage-4 .ps-deal-of-day .ps-section__content{
+        padding: 20px 10px 10px 10px;
+    }
+
+    .ps-carousel--nav{
+        margin-bottom: 0;
+    }
+
+    
+}
+
+@media (max-width: 479px){
+    .ps-block--categories-tabs .ps-block__item a{
+        max-width: 25%;
+    }
+    .ps-block--categories-tabs .ps-block__item a img{
+        max-height: 100px;
+    }
+    .ps-block--categories-tabs .ps-block__item a{
+        margin-bottom: 0;
+    }
+}
+
+@media (min-width: 960px) and (max-width: 1024px){
+    .ps-block--categories-tabs .ps-block__item a{
+        max-width: 33.33333%;
+    }
+}
+
+@media (min-width: 960px) {
+    .ps-footer__content{
+        display: none;
+    }
+}
+
+
+/*# sourceMappingURL=market-place-2.css.map */

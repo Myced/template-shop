@@ -1,0 +1,64 @@
+#homepage-4 .ps-home-banner {
+    padding-top: 30px;
+    padding-bottom: 40px; }
+#homepage-4 .ps-home-banner .owl-slider .owl-item img {
+    width: 100%; }
+#homepage-4 .ps-home-banner .container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap; }
+#homepage-4 .ps-home-banner .container > * {
+    width: 100%; }
+#homepage-4 .ps-home-banner .container .ps-section__left {
+    max-width: calc(100% - 380px);
+    padding-right: 30px; }
+#homepage-4 .ps-home-banner .container .ps-section__right {
+    max-width: 380px; }
+#homepage-4 .ps-home-banner .container .ps-section__right .ps-collection {
+    margin-bottom: 30px; }
+#homepage-4 .ps-home-banner .container .ps-section__right .ps-collection:last-child {
+    margin-bottom: 0; }
+@media (max-width: 1199px) {
+    #homepage-4 .ps-home-banner .container {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-flow: column wrap;
+        flex-flow: column wrap; }
+    #homepage-4 .ps-home-banner .container .ps-section__left {
+        max-width: 100%;
+        margin-bottom: 30px;
+        padding-right: 0; }
+    #homepage-4 .ps-home-banner .container .ps-section__right {
+        width: 100%;
+        max-width: 100%;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-flow: row nowrap;
+        flex-flow: row nowrap; }
+    #homepage-4 .ps-home-banner .container .ps-section__right .ps-collection {
+        width: 100%;
+        max-width: 50%;
+        margin: 0 10px; }
+}
+
+@media (max-width: 960px){
+    #homepage-4 .ps-home-banner .container .ps-section__right {
+        display: none;
+    }
+
+    #homepage-4 .ps-home-banner{
+        padding-bottom: 0;
+    }
+
+    #homepage-4 .ps-home-banner .container .ps-section__left{
+        margin-bottom: 20px;
+    }
+}
+
