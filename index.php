@@ -1,7 +1,10 @@
 <?php
-header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
-header("Cache-Control: post-check=0, pre-check=0", false);
-header("Pragma: no-cache");
+    header("Expires: Tue, 03 Jul 2001 06:00:00 GMT");
+    header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
+    header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+    header("Cache-Control: post-check=0, pre-check=0", false);
+    header("Pragma: no-cache");
+    header("Connection: close");
  ?>
 
  <!DOCTYPE html>
@@ -14,6 +17,9 @@ header("Pragma: no-cache");
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta name="format-detection" content="telephone=no">
      <meta name="apple-mobile-web-app-capable" content="yes">
+     <meta http-equiv="expires" content="Sun, 01 Jan 2014 00:00:00 GMT"/>
+     <meta http-equiv="pragma" content="no-cache" />
+
      <!--link(href="favicon.png" rel="icon" )-->
      <meta name="author" content="">
      <meta name="keywords" content="">
@@ -90,9 +96,13 @@ header("Pragma: no-cache");
 
      <div class="header__content">
          <div class="container">
-             <div class="header__content-left"><a class="ps-logo" href="index.html"><img src="img/logo.png" alt=""></a>
+             <div class="header__content-left"><a class="ps-logo" href="index.html">
+                 <img src="img/logo.png" alt=""></a>
                  <div class="menu--product-categories">
-                     <div class="menu__toggle"><i class="icon-menu"></i><span> Shop by Department</span></div>
+                     <div class="menu__toggle">
+                         <i class="icon-menu"></i>
+                         <span> Shop by Department</span>
+                     </div>
                      <div class="menu__content">
                          <ul class="menu--dropdown">
                              <li><a href="#"><i class="icon-star"></i> Hot Promotions</a></li>
@@ -216,7 +226,9 @@ header("Pragma: no-cache");
      <nav class="navigation">
          <div class="container">
              <ul class="menu menu--furniture">
-                 <li class="current-menu-item menu-item-has-children"><a href="index.html"><i class="icon-smartphone"></i> Home</a><span class="sub-toggle"></span>
+                 <li class="current-menu-item menu-item-has-children">
+                     <a href="index.html">
+                         <i class="icon-smartphone"></i> Home</a><span class="sub-toggle"></span>
                      <ul class="sub-menu">
                          <li><a href="index.html">Marketplace Full Width</a></li>
                          <li><a href="homepage-2.html">Home Auto Parts</a></li>
