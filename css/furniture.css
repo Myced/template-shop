@@ -3,3 +3,9 @@
   margin-bottom: 30px;
   background-color: #ffffff;
 }
+
+@media (max-width: 960px){
+  #homepage-4 .ps-best-sale-brands {
+    padding:5px;
+  }
+}
