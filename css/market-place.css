@@ -237,6 +237,18 @@
     margin-bottom: 10px;
 }
 
+.ps-product .ps-product__vendor{
+    display: none;
+}
+
+.ps-page--shop .ps-shop-categories{
+    display: none;
+}
+
+.social-share{
+    display: none;
+}
+
 @media (max-width: 960px){
     .ps-block--product-box .ps-block__content .ps-block__right{
         display: none;
@@ -319,6 +331,43 @@
     .ps-block--countdown-deal figure{
         font-size: 16px;
     }
+
+    .ps-product .ps-product__vendor{
+        display: none;
+    }
+
+    #homepage-4 .ps-product__container .ps-product__content .ps-product__rating{
+        display: none;
+    }
+
+    .ps-product .ps-product__progress-bar{
+        display: none;
+    }
+
+    #homepage-4 .ps-product__container .ps-product__content .ps-product__title{
+
+    }
+
+    .ps-block--product-box .ps-block__header{
+        padding: 10px 15px 0 15px;
+    }
+
+    .ps-block--product-box .ps-block__content .ps-block__left{
+        padding: 12px;
+    }
+
+    .ps-carousel--nav-inside .owl-dots{
+        position: absolute;
+        bottom: 4px;
+    }
+
+    .ps-page--shop .ps-shop-banner{
+        display: none;
+    }
+
+    .page-title{
+        font-size: 2rem;
+    }
 }
 
 @media (max-width: 479px){
@@ -331,11 +380,38 @@
     .ps-block--categories-tabs .ps-block__item a{
         margin-bottom: 0;
     }
+    .ps-block--countdown-deal .ps-block__left h3{
+        font-size: 16px;
+    }
+    .ps-block--countdown-deal figure{
+        font-size: 13px;
+    }
+
+    .ps-block--product-box .ps-block__header h3{
+        font-size: 16px;
+    }
+
+    .ps-block--product-box .ps-block__content .ps-block__left{
+        padding: 10px;
+    }
+
+    .ps-best-sale-brands{
+        padding: 10px;
+    }
+
+    .ps-carousel--nav-inside .owl-dots{
+        position: absolute;
+        bottom: 2px;
+    }
+
+    .ps-cart--mini .ps-cart__content{
+        display: none;
+    }
 }
 
-@media (min-width: 960px) and (max-width: 1024px){
+@media (min-width: 480px) and (max-width: 960px){
     .ps-block--categories-tabs .ps-block__item a{
-        max-width: 33.33333%;
+        max-width: 20%;
     }
 }
 
