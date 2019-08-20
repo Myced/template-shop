@@ -4872,7 +4872,7 @@ textarea.form-control {
 }
 
 .ps-block--categories-tabs .ps-tab {
-    padding: 20px 60px 60px
+    padding: 20px 60px 0;
 }
 
 @media (max-width:1680px) {

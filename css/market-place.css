@@ -237,6 +237,18 @@
     margin-bottom: 10px;
 }
 
+.ps-product .ps-product__vendor{
+    display: none;
+}
+
+.ps-page--shop .ps-shop-categories{
+    display: none;
+}
+
+.social-share{
+    display: none;
+}
+
 @media (max-width: 960px){
     .ps-block--product-box .ps-block__content .ps-block__right{
         display: none;
@@ -347,6 +359,14 @@
     .ps-carousel--nav-inside .owl-dots{
         position: absolute;
         bottom: 4px;
+    }
+
+    .ps-page--shop .ps-shop-banner{
+        display: none;
+    }
+
+    .page-title{
+        font-size: 2rem;
     }
 }
 
