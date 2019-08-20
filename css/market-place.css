@@ -368,6 +368,15 @@
     .page-title{
         font-size: 2rem;
     }
+
+    .ps-best-sale-brands .ps-image-list li{
+        max-height: 20%;
+        max-width: 20%;
+    }
+
+    #homepage-4 .ps-best-sale-brands{
+        padding: 5px;
+    }
 }
 
 @media (max-width: 479px){
