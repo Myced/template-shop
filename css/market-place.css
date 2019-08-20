@@ -347,3 +347,9 @@
 
 
 /*# sourceMappingURL=market-place-2.css.map */
+
+/* custom style for products on deal of the day  */
+.my-border:hover
+{
+    border: 1px solid silver;
+}
