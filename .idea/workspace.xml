@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ce25118-f701-4bc9-b040-ec238c8ab838" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/product-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/furniture.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/furniture.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/market-place.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/market-place.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shop-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop-page.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +24,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6902">
-              <caret line="406" column="85" selection-start-line="406" selection-start-column="85" selection-end-line="406" selection-end-column="85" />
+            <state relative-caret-position="6936">
+              <caret line="408" column="27" selection-start-line="408" selection-start-column="27" selection-end-line="408" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/product.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="1245" column="53" selection-start-line="1245" selection-start-column="53" selection-end-line="1245" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -31,17 +42,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shop-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38505">
-              <caret line="2265" column="1" selection-start-line="2265" selection-start-column="1" selection-end-line="2376" selection-end-column="103" />
+            <state relative-caret-position="6783">
+              <caret line="399" column="27" selection-start-line="397" selection-start-column="21" selection-end-line="399" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product.html">
+        <entry file="file://$PROJECT_DIR$/product-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16439">
-              <caret line="967" column="59" selection-start-line="967" selection-start-column="59" selection-end-line="967" selection-end-column="59" />
+            <state relative-caret-position="204">
+              <caret line="784" column="33" selection-start-line="784" selection-start-column="33" selection-end-line="784" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -49,17 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/market-place.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="374" column="5" selection-start-line="374" selection-start-column="5" selection-end-line="374" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/furniture.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <state relative-caret-position="306">
+              <caret line="162" selection-start-line="162" selection-end-line="162" />
             </state>
           </provider>
         </entry>
@@ -80,6 +82,14 @@
       <find>maincontent</find>
       <find>page-bottom</find>
       <find>product-add-form</find>
+      <find>widget widget_product widget_features</find>
+      <find>ps-product__variations</find>
+      <find>ps-product__content ps-tab-root</find>
+      <find>ps-section--default ps-customer-bought</find>
+      <find>My Account</find>
+      <find>navigation--mobile</find>
+      <find>Frequently Bought TogetherFrequently Bought Together</find>
+      <find>sticky-addcart-wrap</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -88,11 +98,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/shop-page.php" />
         <option value="$PROJECT_DIR$/product.html" />
         <option value="$PROJECT_DIR$/css/furniture.css" />
+        <option value="$PROJECT_DIR$/shop-page.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/product-page.html" />
         <option value="$PROJECT_DIR$/css/market-place.css" />
       </list>
     </option>
@@ -189,18 +201,25 @@
       <workItem from="1566309433390" duration="1741000" />
       <workItem from="1566315936379" duration="1069000" />
       <workItem from="1566317683088" duration="1779000" />
-      <workItem from="1566319654397" duration="695000" />
+      <workItem from="1566319654397" duration="701000" />
+      <workItem from="1566340701764" duration="24000" />
+      <workItem from="1566373834575" duration="675000" />
+      <workItem from="1566378005664" duration="1697000" />
+      <workItem from="1566379829439" duration="1403000" />
+      <workItem from="1566381887042" duration="1716000" />
+      <workItem from="1566388053573" duration="1567000" />
+      <workItem from="1566390351784" duration="700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30630000" />
+    <option name="totallyTimeSpent" value="38418000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28441754" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24357034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -233,38 +252,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/furniture.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6902">
-          <caret line="406" column="85" selection-start-line="406" selection-start-column="85" selection-end-line="406" selection-end-column="85" />
+        <state relative-caret-position="6936">
+          <caret line="408" column="27" selection-start-line="408" selection-start-column="27" selection-end-line="408" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shop-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38505">
-          <caret line="2265" column="1" selection-start-line="2265" selection-start-column="1" selection-end-line="2376" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16439">
-          <caret line="967" column="59" selection-start-line="967" selection-start-column="59" selection-end-line="967" selection-end-column="59" />
+        <state relative-caret-position="6783">
+          <caret line="399" column="27" selection-start-line="397" selection-start-column="21" selection-end-line="399" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/market-place.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="374" column="5" selection-start-line="374" selection-start-column="5" selection-end-line="374" selection-end-column="5" />
+        <state relative-caret-position="306">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/furniture.css">
+    <entry file="file://$PROJECT_DIR$/product-page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        <state relative-caret-position="204">
+          <caret line="784" column="33" selection-start-line="784" selection-start-column="33" selection-end-line="784" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="1245" column="53" selection-start-line="1245" selection-start-column="53" selection-end-line="1245" selection-end-column="53" />
         </state>
       </provider>
     </entry>
