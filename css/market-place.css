@@ -394,6 +394,18 @@
 }
 
 @media (max-width: 479px){
+    .ps-product--detail .ps-product__thumbnail .ps-product__variants{
+        display: none;
+    }
+
+    .ps-product--detail .ps-product__header .ps-product__thumbnail{
+        margin-bottom: -3rem;
+    }
+
+    .ps-block--categories-tabs .ps-block__item .category-2{
+        display: none;
+    }
+
     .ps-block--categories-tabs .ps-block__item a{
         max-width: 25%;
     }

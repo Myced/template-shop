@@ -713,22 +713,22 @@
                          <div class="ps-tabs">
                              <div class="ps-tab active" id="tab-1">
                                  <div class="ps-block__item">
-                                     <a href="shop-default.html"><img src="img/categories/home-5/1.jpg" alt="#television"><span>#television</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/2.jpg" alt="#camera"><span>#camera</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/3.jpg" alt="#watch"><span>#watch</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/4.jpg" alt="#chair"><span>#chair</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/5.jpg" alt="#sneaker"><span>#sneaker</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/6.jpg" alt="#xbox"><span>#xbox</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/7.jpg" alt="#gopro"><span>#gopro</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/8.jpg" alt="#lipstick"><span>#lipstick</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/9.jpg" alt="#phone"><span>#phone</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/10.jpg" alt="#laptop"><span>#laptop</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/11.jpg" alt="#speaker"><span>#speaker</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/12.jpg" alt="#book"><span>#book</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/13.jpg" alt="#blender"><span>#blender</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/14.jpg" alt="#bag"><span>#bag</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/15.jpg" alt="#smartphone"><span>#smartphone</span></a>
-                                     <a href="shop-default.html"><img src="img/categories/home-5/16.jpg" alt="#camping"><span>#camping</span></a>
+                                     <a class="category-1" href="shop-default.html"><img src="img/categories/home-5/1.jpg" alt="#television"><span>#television</span></a>
+                                     <a class="category-1" href="shop-default.html"><img src="img/categories/home-5/2.jpg" alt="#camera"><span>#camera</span></a>
+                                     <a class="category-1" href="shop-default.html"><img src="img/categories/home-5/3.jpg" alt="#watch"><span>#watch</span></a>
+                                     <a class="category-1" href="shop-default.html"><img src="img/categories/home-5/4.jpg" alt="#chair"><span>#chair</span></a>
+                                     <a class="category-1" href="shop-default.html"><img src="img/categories/home-5/5.jpg" alt="#sneaker"><span>#sneaker</span></a>
+                                     <a class="category-1" href="shop-default.html"><img src="img/categories/home-5/6.jpg" alt="#xbox"><span>#xbox</span></a>
+                                     <a class="category-1" href="shop-default.html"><img src="img/categories/home-5/7.jpg" alt="#gopro"><span>#gopro</span></a>
+                                     <a class="category-1" href="shop-default.html"><img src="img/categories/home-5/8.jpg" alt="#lipstick"><span>#lipstick</span></a>
+                                     <a class="category-2" href="shop-default.html"><img src="img/categories/home-5/9.jpg" alt="#phone"><span>#phone</span></a>
+                                     <a class="category-2" href="shop-default.html"><img src="img/categories/home-5/10.jpg" alt="#laptop"><span>#laptop</span></a>
+                                     <a class="category-2" href="shop-default.html"><img src="img/categories/home-5/11.jpg" alt="#speaker"><span>#speaker</span></a>
+                                     <a class="category-2" href="shop-default.html"><img src="img/categories/home-5/12.jpg" alt="#book"><span>#book</span></a>
+                                     <a class="category-2" href="shop-default.html"><img src="img/categories/home-5/13.jpg" alt="#blender"><span>#blender</span></a>
+                                     <a class="category-2" href="shop-default.html"><img src="img/categories/home-5/14.jpg" alt="#bag"><span>#bag</span></a>
+                                     <a class="category-2" href="shop-default.html"><img src="img/categories/home-5/15.jpg" alt="#smartphone"><span>#smartphone</span></a>
+                                     <a class="category-2" href="shop-default.html"><img src="img/categories/home-5/16.jpg" alt="#camping"><span>#camping</span></a>
                                  </div>
                              </div>
                              <div class="ps-tab" id="tab-2">

@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ce25118-f701-4bc9-b040-ec238c8ab838" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/product-page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/market-place.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/market-place.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shop-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/shop-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-page.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,46 +21,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+        <entry file="file://$PROJECT_DIR$/product-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6936">
-              <caret line="408" column="27" selection-start-line="408" selection-start-column="27" selection-end-line="408" selection-end-column="27" />
+            <state relative-caret-position="561">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/product.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="1245" column="53" selection-start-line="1245" selection-start-column="53" selection-end-line="1245" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/shop-page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6783">
-              <caret line="399" column="27" selection-start-line="397" selection-start-column="21" selection-end-line="399" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/product-page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="784" column="33" selection-start-line="784" selection-start-column="33" selection-end-line="784" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/market-place.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="162" selection-start-line="162" selection-end-line="162" />
+            <state relative-caret-position="226">
+              <caret line="404" column="46" lean-forward="true" selection-start-line="404" selection-start-column="46" selection-end-line="404" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12291">
+              <caret line="723" column="47" selection-start-line="723" selection-start-column="47" selection-end-line="723" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -90,6 +71,9 @@
       <find>navigation--mobile</find>
       <find>Frequently Bought TogetherFrequently Bought Together</find>
       <find>sticky-addcart-wrap</find>
+      <find>actions</find>
+      <find>https://martfury05.magebig.com/checkout/cart/add/uenc/aHR0cHM6Ly9tYXJ0ZnVyeTA1Lm1hZ2ViaWcuY29tL3NhbXN1bmctZ2Vhci12ci12aXJ0dWFsLXJlYWxpdHktaGVhZHNldC5odG1s/product/44/</find>
+      <find>ps-tabs</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -103,13 +87,13 @@
         <option value="$PROJECT_DIR$/product.html" />
         <option value="$PROJECT_DIR$/css/furniture.css" />
         <option value="$PROJECT_DIR$/shop-page.html" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/product-page.html" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/market-place.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="y" value="2" />
     <option name="width" value="1378" />
@@ -120,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,6 +120,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,18 +192,25 @@
       <workItem from="1566379829439" duration="1403000" />
       <workItem from="1566381887042" duration="1716000" />
       <workItem from="1566388053573" duration="1567000" />
-      <workItem from="1566390351784" duration="700000" />
+      <workItem from="1566390351784" duration="1388000" />
+      <workItem from="1566392276191" duration="49000" />
+      <workItem from="1566464112121" duration="1399000" />
+      <workItem from="1566466020381" duration="650000" />
+      <workItem from="1566476223770" duration="25000" />
+      <workItem from="1566558115070" duration="1326000" />
+      <workItem from="1566560129209" duration="598000" />
+      <workItem from="1566564120585" duration="783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38418000" />
+    <option name="totallyTimeSpent" value="43936000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24357034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -259,13 +250,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6936">
-          <caret line="408" column="27" selection-start-line="408" selection-start-column="27" selection-end-line="408" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/shop-page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6783">
@@ -273,24 +257,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/market-place.css">
+    <entry file="file://$PROJECT_DIR$/static/version1563938115/_cache/merged/1e8bb15cbaa58523ee9abfafb4a9af65.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="162" selection-start-line="162" selection-end-line="162" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product-page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="784" column="33" selection-start-line="784" selection-start-column="33" selection-end-line="784" selection-end-column="33" />
+        <state relative-caret-position="168">
+          <caret line="155" column="869194" selection-start-line="155" selection-start-column="869187" selection-end-line="155" selection-end-column="869194" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/product.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="1245" column="53" selection-start-line="1245" selection-start-column="53" selection-end-line="1245" selection-end-column="53" />
+        <state relative-caret-position="374">
+          <caret line="40" column="131" lean-forward="true" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/product-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12291">
+          <caret line="723" column="47" selection-start-line="723" selection-start-column="47" selection-end-line="723" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/market-place.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="404" column="46" lean-forward="true" selection-start-line="404" selection-start-column="46" selection-end-line="404" selection-end-column="46" />
         </state>
       </provider>
     </entry>
