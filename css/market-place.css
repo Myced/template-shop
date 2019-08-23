@@ -391,6 +391,10 @@
         min-width: 20%;
         max-width: 20%;
     }
+
+    .ps-product__rating{
+        display: none;
+    }
 }
 
 @media (max-width: 479px){

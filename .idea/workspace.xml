@@ -4,8 +4,6 @@
     <list default="true" id="9ce25118-f701-4bc9-b040-ec238c8ab838" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/market-place.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/market-place.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-page.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +21,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/product-page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
+            <state relative-caret-position="526">
               <caret line="33" selection-start-line="33" selection-end-line="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/shop-page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="1121" column="71" selection-start-line="1121" selection-start-column="53" selection-end-line="1121" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -32,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/market-place.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="404" column="46" lean-forward="true" selection-start-line="404" selection-start-column="46" selection-end-line="404" selection-end-column="46" />
+            <state relative-caret-position="430">
+              <caret line="395" column="22" selection-start-line="395" selection-start-column="22" selection-end-line="395" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -74,6 +81,7 @@
       <find>actions</find>
       <find>https://martfury05.magebig.com/checkout/cart/add/uenc/aHR0cHM6Ly9tYXJ0ZnVyeTA1Lm1hZ2ViaWcuY29tL3NhbXN1bmctZ2Vhci12ci12aXJ0dWFsLXJlYWxpdHktaGVhZHNldC5odG1s/product/44/</find>
       <find>ps-tabs</find>
+      <find>ps-product__rating</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -200,17 +208,17 @@
       <workItem from="1566558115070" duration="1326000" />
       <workItem from="1566560129209" duration="598000" />
       <workItem from="1566564120585" duration="783000" />
+      <workItem from="1566565850857" duration="786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43936000" />
+    <option name="totallyTimeSpent" value="44722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26928896" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2730711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -250,13 +258,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shop-page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6783">
-          <caret line="399" column="27" selection-start-line="397" selection-start-column="21" selection-end-line="399" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/version1563938115/_cache/merged/1e8bb15cbaa58523ee9abfafb4a9af65.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -271,13 +272,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/product-page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12291">
@@ -285,10 +279,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/product-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shop-page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="1121" column="71" selection-start-line="1121" selection-start-column="53" selection-end-line="1121" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/market-place.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="404" column="46" lean-forward="true" selection-start-line="404" selection-start-column="46" selection-end-line="404" selection-end-column="46" />
+        <state relative-caret-position="430">
+          <caret line="395" column="22" selection-start-line="395" selection-start-column="22" selection-end-line="395" selection-end-column="22" />
         </state>
       </provider>
     </entry>
